@@ -1,0 +1,23 @@
+{
+  "name": "company_crypto_bonus_project_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan-Singh-Chouhan/Company_crypto_Bonus_project_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan-Singh-Chouhan/Company_crypto_Bonus_project_3/issues"
+  },
+  "homepage": "https://github.com/Chetan-Singh-Chouhan/Company_crypto_Bonus_project_3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
